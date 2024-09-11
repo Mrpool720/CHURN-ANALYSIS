@@ -22,3 +22,8 @@ Open the Anaconda Command Prompt and run below code:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
 ```
+## Summary
+![Screenshot 2024-09-11 180146](https://github.com/user-attachments/assets/6d58390e-c89a-4bc7-bee3-414f0b6820c0)
+
+## After Prediction
+![Screenshot 2024-09-11 180220](https://github.com/user-attachments/assets/d2f859a2-6da9-43a4-936e-1c29b5848acc)
